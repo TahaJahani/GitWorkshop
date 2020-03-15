@@ -6,4 +6,7 @@ public class Main {
         String input = scanner.nextLine();
         System.out.println(input);
     }
+    public static int add(int a, int b){
+        return a+b;
+    }
 }
